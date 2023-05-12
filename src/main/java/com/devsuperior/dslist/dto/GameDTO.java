@@ -1,3 +1,4 @@
+
 package com.devsuperior.dslist.dto;
 
 import org.springframework.beans.BeanUtils;
@@ -78,3 +79,4 @@ public class GameDTO {
 	}
 	
 }
+
